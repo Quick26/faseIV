@@ -98,7 +98,7 @@ Reportes: Genera reportes de asistencia y participación de los usuarios.
 Contribución
 
 Clona este repositorio:
-git clone https://github.com/tu_usuario/eventmanager.git
+git clone https://github.com/Quick26/eventmanager.git
 Crea un branch para tus cambios:
 git checkout -b feature/nueva-funcionalidad
 Haz tus cambios y realiza un commit:
